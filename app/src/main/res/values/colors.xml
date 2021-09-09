@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#202020</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#FFAC12</color>
+    <color name="dodgerblue">#2894FF</color>
+    <color name="lightgray">#DDDDDD</color>
+    <color name="darkgray">#A9A9A9</color>
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="background">#121212</color>
+    <color name="appbar">#121212</color>
+    <color name="cardview">#454545</color>
+    <color name="inputcolor">#FFAC12</color>
+</resources>

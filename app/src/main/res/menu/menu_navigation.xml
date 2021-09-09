@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/mainPage"
+        android:title="首頁"
+        android:icon="@drawable/icon_arrow_black"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/userInfo"
+        android:title="個人資料"
+        android:icon="@drawable/icon_arrow_black"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/inventory"
+        android:title="設備管理"
+        android:icon="@drawable/icon_arrow_black"
+        app:showAsAction="ifRoom">
+
+    </item>
+    <item
+        android:id="@+id/manager"
+        android:title="管理者"
+        android:icon="@drawable/icon_arrow_black"
+        app:showAsAction="ifRoom">
+    </item>
+    <item
+        android:id="@+id/Logout"
+        android:title="登出"
+        android:icon="@drawable/icon_arrow_black"
+        app:showAsAction="ifRoom">
+
+    </item>
+</menu>
